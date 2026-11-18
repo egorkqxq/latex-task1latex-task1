@@ -1,0 +1,22 @@
+# Временные файлы LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Результаты сборки
+*.pdf
+*.dvi
+
+# Исходники в старой кодировке
+*.txt
